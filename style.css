@@ -20,12 +20,6 @@ section{
     text-align: center;
 }
 
-#infos{
-    width: 200px;
-    height: 300px;
-    display: flex;
-    flex-direction: row;
-}
 
 #imgOds{
     width: 250px;
